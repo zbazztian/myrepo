@@ -18,6 +18,9 @@ package org.apache.commons.lang.math;
 
 import org.apache.commons.lang.text.StrBuilder;
 
+
+wuffinger
+
 /**
  * <p><code>Range</code> represents a range of numbers of the same type.</p>
  * 
